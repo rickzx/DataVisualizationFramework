@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.cmu.cd.cs214.hw5.framework.core.DataVisualizationFrameworkTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-11-19T06:55:27" hostname="Ricks-MacBook-Pro.local" time="2.307">
+  <properties/>
+  <testcase name="testAnalyzePost" classname="edu.cmu.cd.cs214.hw5.framework.core.DataVisualizationFrameworkTest" time="1.973"/>
+  <testcase name="testCreatePost" classname="edu.cmu.cd.cs214.hw5.framework.core.DataVisualizationFrameworkTest" time="0.004"/>
+  <testcase name="testLoadAccount" classname="edu.cmu.cd.cs214.hw5.framework.core.DataVisualizationFrameworkTest" time="0.328"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

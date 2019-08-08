@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.cmu.cs.cs214.hw5.plugins.dataplugin.amazonplugin.AmazonPluginTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-11-19T06:55:32" hostname="Ricks-MacBook-Pro.local" time="2.301">
+  <properties/>
+  <testcase name="testGetAccountName" classname="edu.cmu.cs.cs214.hw5.plugins.dataplugin.amazonplugin.AmazonPluginTest" time="0.582"/>
+  <testcase name="testQueryPosts" classname="edu.cmu.cs.cs214.hw5.plugins.dataplugin.amazonplugin.AmazonPluginTest" time="1.33"/>
+  <testcase name="testConnect" classname="edu.cmu.cs.cs214.hw5.plugins.dataplugin.amazonplugin.AmazonPluginTest" time="0.389"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
